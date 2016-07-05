@@ -13,7 +13,7 @@ namespace Sonata\PropelAdminBundle\Guesser;
 
 use Sonata\AdminBundle\Guesser\TypeGuesserInterface;
 use Sonata\AdminBundle\Model\ModelManagerInterface;
-use Symfony\Bridge\Propel1\Form\PropelTypeGuesser;
+use Propel\Bundle\PropelBundle\Form\PropelTypeGuesser;
 use Symfony\Component\Form\Guess\TypeGuess;
 
 /**
